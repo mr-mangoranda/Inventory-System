@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Notebook",
+        "quantity": 8,
+        "price": 20.0
+    },
+    {
+        "name": "Pencil",
+        "quantity": 43,
+        "price": 10.0
+    },
+    {
+        "name": "apple",
+        "quantity": 30,
+        "price": 25.0
+    },
+    {
+        "name": "Banana",
+        "quantity": 30,
+        "price": 25.0
+    },
+    {
+        "name": "Pineapple",
+        "quantity": 25,
+        "price": 25.0
+    }
+]
